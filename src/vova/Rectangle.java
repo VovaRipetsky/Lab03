@@ -14,6 +14,7 @@ public class Rectangle {
     private int b;
     private int square;
 
+
     public Rectangle(){}
 
 
