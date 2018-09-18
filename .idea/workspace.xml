@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="129902af-f574-43b6-ba39-0834d2c56fac" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/vova/MyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vova/MyRuntimeException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab03/vova/Plants$Color$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab03/vova/Plants$Color$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab03/vova/Plants$Color$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab03/vova/Plants$Color$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab03/vova/Plants$Color$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab03/vova/Plants$Color$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab03/vova/Plants$Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab03/vova/Plants$Color.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab03/vova/Plants$Type$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab03/vova/Plants$Type$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab03/vova/Plants$Type$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab03/vova/Plants$Type$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab03/vova/Plants$Type$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab03/vova/Plants$Type$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab03/vova/Plants$Type.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab03/vova/Plants$Type.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab03/vova/Plants.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab03/vova/Plants.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab03/vova/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab03/vova/Rectangle.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/vova/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vova/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/vova/Plants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vova/Plants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vova/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vova/Rectangle.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,45 +35,32 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="608" />
+          <entry key="java" value="841" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="608" />
+          <entry key="JAVA" value="841" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/vova/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+            <state relative-caret-position="173">
+              <caret line="22" column="60" lean-forward="true" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/vova/MyException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-              <folding>
-                <element signature="e#99#100#0" expanded="true" />
-                <element signature="e#122#123#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/vova/Plants.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="77" column="42" selection-start-line="77" selection-start-column="42" selection-end-line="77" selection-end-column="42" />
+            <state relative-caret-position="187">
+              <caret line="32" column="48" lean-forward="true" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
               <folding>
                 <element signature="e#214#215#0" expanded="true" />
                 <element signature="e#296#297#0" expanded="true" />
@@ -99,8 +72,8 @@
                 <element signature="e#860#861#0" expanded="true" />
                 <element signature="e#947#948#0" expanded="true" />
                 <element signature="e#1019#1020#0" expanded="true" />
-                <element signature="e#1105#1106#0" expanded="true" />
-                <element signature="e#1176#1177#0" expanded="true" />
+                <element signature="e#983#984#0" expanded="true" />
+                <element signature="e#1054#1055#0" expanded="true" />
                 <element signature="e#1417#1418#0" expanded="true" />
                 <element signature="e#1445#1446#0" expanded="true" />
                 <element signature="e#1474#1475#0" expanded="true" />
@@ -127,8 +100,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/vova/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/vova/MyException.java" />
-        <option value="$PROJECT_DIR$/src/vova/Main.java" />
         <option value="$PROJECT_DIR$/src/vova/MyRuntimeException.java" />
+        <option value="$PROJECT_DIR$/src/vova/Main.java" />
         <option value="$PROJECT_DIR$/src/vova/Plants.java" />
       </list>
     </option>
@@ -211,7 +184,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537286478141" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537288590470" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab02" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -379,12 +352,12 @@
       <updated>1537038189116</updated>
       <workItem from="1537038193068" duration="3108000" />
       <workItem from="1537098850912" duration="6909000" />
-      <workItem from="1537283523246" duration="3103000" />
+      <workItem from="1537283523246" duration="5653000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13120000" />
+    <option name="totallyTimeSpent" value="15670000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1456" height="916" extended-state="6" />
@@ -470,31 +443,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/vova/Plants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="77" column="42" selection-start-line="77" selection-start-column="42" selection-end-line="77" selection-end-column="42" />
-          <folding>
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#660#661#0" expanded="true" />
-            <element signature="e#784#785#0" expanded="true" />
-            <element signature="e#860#861#0" expanded="true" />
-            <element signature="e#947#948#0" expanded="true" />
-            <element signature="e#1019#1020#0" expanded="true" />
-            <element signature="e#1105#1106#0" expanded="true" />
-            <element signature="e#1176#1177#0" expanded="true" />
-            <element signature="e#1417#1418#0" expanded="true" />
-            <element signature="e#1445#1446#0" expanded="true" />
-            <element signature="e#1474#1475#0" expanded="true" />
-            <element signature="e#1501#1502#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/vova/MyException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -508,8 +456,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/vova/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        <state relative-caret-position="173">
+          <caret line="22" column="60" lean-forward="true" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vova/Plants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="32" column="48" lean-forward="true" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
+          <folding>
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+            <element signature="e#784#785#0" expanded="true" />
+            <element signature="e#860#861#0" expanded="true" />
+            <element signature="e#947#948#0" expanded="true" />
+            <element signature="e#1019#1020#0" expanded="true" />
+            <element signature="e#983#984#0" expanded="true" />
+            <element signature="e#1054#1055#0" expanded="true" />
+            <element signature="e#1417#1418#0" expanded="true" />
+            <element signature="e#1445#1446#0" expanded="true" />
+            <element signature="e#1474#1475#0" expanded="true" />
+            <element signature="e#1501#1502#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

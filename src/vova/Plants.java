@@ -7,45 +7,47 @@ public class Plants {
 
     protected int size;
     protected enum Color{
-             Green{
+             GREEN{
                  @Override
                  public String toString(){
-                     return "The color of the plant is Green";
+                     return "The color is Green";
                  }
           },
-             Red{
+             RED{
                  @Override
                  public String toString(){
-                     return "The color of the plant is Red";
+                     return "The color is Red";
                  }
           },
-             Blue{
+             BLUE{
                  @Override
                  public String toString(){
-                     return "The color of the plant is Blue";
+                     return "The color is Blue";
                  }
              }
     }
     protected enum Type{
-        Liverworts{
+        LIVERWORTS{
             @Override
             public String toString(){
-                return "The type of the plant is Liverworts";
+                return "The type is Liverworts";
             }
         },
-        Mosses{
+        MOSSES{
             @Override
             public String toString(){
-                return "The type of the plant is Mosses";
+                return "The type is Mosses";
             }
         },
-        Ferns{
+        FERNS{
             @Override
             public String toString(){
-                return "The type of the plant is Ferns";
+                return "The type is Ferns";
             }
         }
     }
+
+
     private Color color;
     private Type type;
     public Plants(int size, Color color, Type type){
