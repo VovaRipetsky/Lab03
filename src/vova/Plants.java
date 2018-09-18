@@ -5,8 +5,8 @@ package vova;
  */
 public class Plants {
 
-    private int size;
-    private enum Color{
+    protected int size;
+    protected enum Color{
              Green{
                  @Override
                  public String toString(){
@@ -26,7 +26,7 @@ public class Plants {
                  }
              }
     }
-    private enum Type{
+    protected enum Type{
         Liverworts{
             @Override
             public String toString(){
@@ -54,6 +54,28 @@ public class Plants {
         this.type = type;
 
     }
+    public Plants(int size){}
 
+    public Color getColor() {
+        return color;
+    }
 
+    public Type getType() {
+        return type;
+    }
+
+    public static void  testException(int size) throws MyException{
+
+        if(size == 5){
+
+            throw new MyException("FUUUUCK");
+        }
+    }
+    public static void  testRuntimeException(int size){
+
+        if(size == 5){
+
+            throw new MyRuntimeException();
+        }
+    }
 }

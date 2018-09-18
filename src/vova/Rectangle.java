@@ -1,6 +1,5 @@
 package vova;
 
-import com.sun.org.apache.regexp.internal.RE;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
